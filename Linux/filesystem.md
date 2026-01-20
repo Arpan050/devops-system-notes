@@ -46,7 +46,31 @@ Breaking `/` breaks the system.
 
 \## /srv
 
+After that learned about some Commands
 
+> pwd
+> ls
+> ls -l
+> ls -a
+> cd /  
+> cd ~
+> cd ..
+> cd .
 
+Then Learned about directory and file creation
+> mkdir Directory (i know about this because it is normally used in every OS)
+> touch filename
 
+Writing Content Inside File:-
+> echo "Content......" >> filename.txt
+> echo "content..." > filename.txt
+> cat filename.txt
+> cp filename.txt file2.txt (copying content from filename.txt to file2.txt)
 
+Move and Rename a file:-
+> mv filename.txt dir/  (moving filename.txt to dir/ directory)
+> mv filename.txt File1.txt  (Rename the file from filename.txt to File1.txt)
+
+Delete the files and directory:
+> rm filename.txt
+> rm -r dir
